@@ -7,9 +7,12 @@ The goal of this lab was to get hands-on experience with the core stages of a da
 
 Two datasets were used throughout the lab. The first, `bmw_global_sales_2018_2025.csv`, was sourced from Kaggle and contains BMW global sales data from 2018 to 2025 across multiple regions, models, and economic indicators — this was used for the visualization steps. The second, `synthetic_dataset.csv`, is a retail product dataset with columns for Category, Price, Rating, Stock, and Discount. Since the BMW dataset had no missing values, this second dataset was specifically chosen for preprocessing because it contains significant missing data across all columns, making it well-suited for demonstrating imputation and cleaning techniques.
 
+Platform used to develop and run the notebook : [Google colab notebook](https://colab.research.google.com/drive/17E0lKZ8Bc7MRTQmdLA5whVpqzP7aMIgA?usp=sharing). 
+
 **Datasets:**
 - [BMW Global Automotive Sales (2018–2025)](https://www.kaggle.com/datasets/dmahajanbe23/bmw-global-automotive-sales) — Kaggle
 - [Retail Product Dataset with Missing Values](https://www.kaggle.com/datasets/himelsarder/retail-product-dataset-with-missing-values) — Kaggle
+
 
 ---
 
